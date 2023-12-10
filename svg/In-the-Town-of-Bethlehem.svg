@@ -1290,6 +1290,12 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(5.6906, 48.1748)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="111.4279" y2="0"/>
 </g>
+<g transform="translate(40.9327, 50.1748)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(40.9327, 73.2425)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
 <g transform="translate(13.5806, 72.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
@@ -1301,9 +1307,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </g>
 <g transform="translate(12.1906, 73.2425)">
 <rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(40.9197, 73.2425)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(13.5806, 49.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
@@ -1329,12 +1332,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(116.0784, 50.1748)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(68.2336, 73.2425)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(95.4818, 50.1748)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
 <g transform="translate(115.3285, 72.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
@@ -1345,6 +1342,12 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(116.0784, 73.2425)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(68.2578, 73.2425)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(95.4627, 50.1748)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 75.2425)">
@@ -1363,473 +1366,459 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="111.4279" y2="0"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="96.3813" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="96.3684" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="90.9775" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="90.9594" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="84.0402" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="84.0159" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="63.7293" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="78.6069" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="56.8098" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="63.7545" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="41.9049" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="56.8289" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="36.5011" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="41.9240" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="31.5368" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="36.5151" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="28.1079" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="31.5472" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 70.2425)">
+<rect x="28.1182" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 69.2425)">
-<rect x="22.7041" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="22.7092" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
-<rect x="22.7041" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="22.7092" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 69.2425)">
 <rect x="17.3003" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 70.2425)">
 <rect x="17.3003" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
-</g>
-<g transform="translate(40.9197, 50.1748)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(68.2336, 50.1748)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(95.4818, 73.2425)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 53.1748)">
-<rect x="74.7924" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect x="74.8254" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
+<g transform="translate(68.2578, 50.1748)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(95.4627, 73.2425)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:38:39">
+<g transform="translate(83.6026, 63.4645)">
+<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ma</tspan>
+</text>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:27:28">
-<g transform="translate(84.5905, 52.6748)">
+<g transform="translate(84.6235, 52.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:37:2:3">
-<g transform="translate(84.5905, 52.6748)">
+<g transform="translate(84.6235, 52.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:25:26">
-<g transform="translate(82.7502, 57.8645)">
+<g transform="translate(82.7832, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>God,</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:27:28">
-<g transform="translate(82.7502, 60.6645)">
+<g transform="translate(82.7832, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>God,</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:38:39">
-<g transform="translate(83.5696, 63.4645)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:32:33">
+<g transform="translate(79.7895, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>Ma</tspan>
+<tspan>mo</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:38:39">
-<g transform="translate(83.9964, 66.2645)">
+<g transform="translate(84.0294, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ha</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:11:12">
-<g transform="translate(84.5905, 73.2425)">
+<g transform="translate(84.6235, 69.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:15:16">
-<g transform="translate(84.5905, 73.2425)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:19:20">
+<g transform="translate(84.6235, 73.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(85.8297, 50.1748)">
+<g transform="translate(85.8628, 50.1748)">
 <rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(84.6555, 50.1748)">
+<g transform="translate(84.6885, 50.1748)">
 <rect x="-0.0650" y="2.6861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:45:46">
-<g transform="translate(80.6579, 53.1748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:17:18">
-<g transform="translate(96.9941, 69.7425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:22:23">
-<g transform="translate(80.3199, 57.8645)">
-<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>to</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:24:25">
-<g transform="translate(80.3369, 60.6645)">
-<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>of</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:35:36">
-<g transform="translate(80.1662, 63.4645)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:48:49">
+<g transform="translate(95.9551, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>va</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:32:33">
-<g transform="translate(79.7565, 66.2645)">
-<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>mo</tspan>
+<tspan>Ma</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:9:10">
-<g transform="translate(80.6579, 71.7425)">
+<g transform="translate(80.6909, 71.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(81.8971, 50.1748)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:16:17">
+<g transform="translate(80.6909, 74.7425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(81.9301, 50.1748)">
 <rect x="-0.0650" y="-1.0028" width="0.1300" height="2.8167" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(80.7229, 50.1748)">
+<g transform="translate(80.7559, 50.1748)">
 <rect x="-0.0650" y="3.1861" width="0.1300" height="2.3092" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(79.2079, 53.1748)">
+<g transform="translate(80.7559, 73.2425)">
+<rect x="-0.0650" y="1.6861" width="0.1300" height="2.3018" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(79.2409, 53.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
 v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
 </g>
-<g transform="translate(81.8971, 73.2425)">
+<g transform="translate(81.9301, 73.2425)">
 <rect x="-0.0650" y="-4.5059" width="0.1300" height="2.8198" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(91.2960, 73.2425)">
+<g transform="translate(90.0975, 50.1748)">
+<rect x="-0.0650" y="2.6861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(91.2717, 73.2425)">
 <rect x="-0.0650" y="-6.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(90.1218, 73.2425)">
+<g transform="translate(90.0975, 73.2425)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:32:33">
-<g transform="translate(96.9941, 50.1748)">
+<g transform="translate(96.9760, 50.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:37:7:8">
-<g transform="translate(96.9941, 51.1748)">
+<g transform="translate(96.9760, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:32:33">
-<g transform="translate(96.9941, 57.8645)">
+<g transform="translate(96.9760, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Sav</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:36:37">
-<g transform="translate(96.9941, 60.6645)">
+<g transform="translate(96.9760, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Sav</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:48:49">
-<g transform="translate(95.9732, 63.4645)">
-<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>Ma</tspan>
-</text>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:30:31">
+<g transform="translate(90.0325, 52.6748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:48:49">
-<g transform="translate(95.9732, 66.2645)">
-<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>Ma</tspan>
-</text>
+<g transform="translate(85.8628, 73.2425)">
+<rect x="-0.0650" y="-6.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:12:13">
-<g transform="translate(69.7459, 50.6748)">
+<g transform="translate(84.6885, 73.2425)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:37:5:6">
+<g transform="translate(90.0325, 52.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:30:31">
-<g transform="translate(89.7871, 57.8645)">
+<g transform="translate(89.7628, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>O</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(84.6555, 73.2425)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:30:31">
-<g transform="translate(90.0568, 52.6748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:37:5:6">
-<g transform="translate(90.0568, 52.6748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(85.8297, 73.2425)">
-<rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:32:33">
-<g transform="translate(89.1383, 60.6645)">
+<g transform="translate(89.1140, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>the</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:44:45">
-<g transform="translate(89.7871, 63.4645)">
+<g transform="translate(89.7628, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ti,</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:44:45">
-<g transform="translate(89.6334, 66.2645)">
+<g transform="translate(89.6091, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>je,</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:14:15">
-<g transform="translate(90.0568, 69.7425)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:15:16">
+<g transform="translate(90.0325, 69.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:18:19">
-<g transform="translate(90.0568, 73.2425)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:22:23">
+<g transform="translate(90.0325, 73.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(91.2960, 50.1748)">
+<g transform="translate(91.2717, 50.1748)">
 <rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(90.1218, 50.1748)">
-<rect x="-0.0650" y="2.6861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(70.9851, 73.2425)">
-<rect x="-0.0650" y="-5.4941" width="0.1300" height="2.3080" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(69.8109, 73.2425)">
+<g transform="translate(69.8361, 73.2425)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
+<g transform="translate(71.0104, 73.2425)">
+<rect x="-0.0650" y="-5.4941" width="0.1300" height="2.3080" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:17:18">
-<g transform="translate(73.0999, 51.1748)">
+<g transform="translate(73.1277, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:40:41">
-<g transform="translate(73.0999, 52.1748)">
+<g transform="translate(73.1277, 52.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:5:6">
-<g transform="translate(73.0999, 70.7425)">
+<g transform="translate(73.1277, 70.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(74.3669, 50.1748)">
+<rect x="-0.0650" y="-2.0035" width="0.1300" height="2.8174" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:57:58">
-<g transform="translate(105.3975, 66.2645)">
+<g transform="translate(105.3872, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:34:35">
-<g transform="translate(69.7459, 51.6748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:14:15">
-<g transform="translate(69.7459, 57.8645)">
+<g transform="translate(69.7711, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>all</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:16:17">
-<g transform="translate(69.7459, 60.6645)">
+<g transform="translate(69.7711, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>was</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:23:24">
-<g transform="translate(69.7459, 63.4645)">
+<g transform="translate(69.7711, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>na</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:21:22">
-<g transform="translate(69.7459, 66.2645)">
+<g transform="translate(69.7711, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ti</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:2:3">
-<g transform="translate(69.7459, 70.2425)">
+<g transform="translate(69.7711, 70.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:11:12">
-<g transform="translate(69.7459, 73.2425)">
+<g transform="translate(69.7711, 73.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(74.3391, 50.1748)">
-<rect x="-0.0650" y="-2.0035" width="0.1300" height="2.8174" ry="0.0400" fill="currentColor"/>
+<g transform="translate(71.0104, 50.1748)">
+<rect x="-0.0650" y="-2.1865" width="0.1300" height="2.5004" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(70.9851, 50.1748)">
-<rect x="-0.0650" y="-2.1865" width="0.1300" height="2.5003" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(69.8109, 50.1748)">
+<g transform="translate(69.8361, 50.1748)">
 <rect x="-0.0650" y="1.6861" width="0.1300" height="2.5097" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:13:14">
-<g transform="translate(76.4539, 73.2425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(77.6931, 50.1748)">
-<rect x="-0.0650" y="-1.1872" width="0.1300" height="2.5010" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(76.5189, 50.1748)">
+<g transform="translate(76.5493, 50.1748)">
 <rect x="-0.0650" y="2.6861" width="0.1300" height="2.5085" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:7:8">
-<g transform="translate(76.4539, 71.2425)">
+<g transform="translate(77.7235, 73.2425)">
+<rect x="-0.0650" y="-4.8866" width="0.1300" height="2.7005" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(76.5493, 73.2425)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.0160" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:25:26">
+<g transform="translate(80.6909, 52.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(77.6931, 73.2425)">
-<rect x="-0.0650" y="-4.8866" width="0.1300" height="2.7005" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(76.5189, 73.2425)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(74.3391, 73.2425)">
-<rect x="-0.0650" y="-5.1904" width="0.1300" height="2.5043" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(73.1649, 50.1748)">
-<rect x="-0.0650" y="2.1861" width="0.1300" height="2.3081" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:25:26">
-<g transform="translate(80.6579, 52.1748)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:45:46">
+<g transform="translate(80.6909, 53.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:22:23">
+<g transform="translate(80.3529, 57.8645)">
+<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:24:25">
+<g transform="translate(80.3700, 60.6645)">
+<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:21:22">
-<g transform="translate(76.4539, 51.6748)">
+<g transform="translate(76.4843, 51.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(73.1927, 50.1748)">
+<rect x="-0.0650" y="2.1861" width="0.1300" height="2.3081" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(74.3669, 73.2425)">
+<rect x="-0.0650" y="-5.1903" width="0.1300" height="2.5042" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:35:36">
+<g transform="translate(80.1992, 63.4645)">
+<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>va</tspan>
+</text>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:43:44">
-<g transform="translate(76.4539, 52.6748)">
+<g transform="translate(76.4843, 52.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:18:19">
-<g transform="translate(74.9038, 57.8645)">
+<g transform="translate(74.9342, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>men</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:20:21">
-<g transform="translate(75.1769, 60.6645)">
+<g transform="translate(75.2073, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Son</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:28:29">
-<g transform="translate(75.7403, 63.4645)">
+<g transform="translate(75.7707, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>D'i</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:26:27">
-<g transform="translate(75.9281, 66.2645)">
+<g transform="translate(75.9585, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>po</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(34.1245, 53.6748)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:7:8">
+<g transform="translate(76.4843, 71.2425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:13:14">
+<g transform="translate(76.4843, 73.2425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(77.7235, 50.1748)">
+<rect x="-0.0650" y="-1.1872" width="0.1300" height="2.5010" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(34.1348, 53.6748)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5190 0.1100 3.5190 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:26:27">
-<g transform="translate(36.3147, 66.2645)">
+<g transform="translate(36.3251, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:36:37">
-<g transform="translate(40.3406, 63.4645)">
+<g transform="translate(40.3528, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:40:41">
-<g transform="translate(45.2031, 60.6645)">
-<rect x="0.0000" y="-0.5500" width="0.4837" height="0.1300" ry="0.0400" fill="currentColor"/>
+<g transform="translate(45.2170, 60.6645)">
+<rect x="0.0000" y="-0.5500" width="0.4889" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:42:43">
-<g transform="translate(45.7039, 63.4645)">
+<g transform="translate(45.7204, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:36:37">
-<g transform="translate(45.5161, 66.2645)">
+<g transform="translate(45.5327, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(35.2987, 47.1748)">
+<g transform="translate(35.3090, 47.1748)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5190 -0.0100 3.5190 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(35.2987, 67.4325)">
+<g transform="translate(35.3090, 67.4325)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5190 0.1100 3.5190 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(34.1245, 76.0525)">
+<g transform="translate(34.1348, 76.0525)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5190 -0.2000 3.5190 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:7:8">
-<g transform="translate(56.1997, 63.4645)">
+<g transform="translate(56.2188, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:6:7">
-<g transform="translate(56.2936, 66.2645)">
+<g transform="translate(56.3127, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:19:20">
-<g transform="translate(26.3579, 63.4645)">
+<g transform="translate(26.3605, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
@@ -1854,7 +1843,7 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:17:18">
-<g transform="translate(26.4177, 66.2645)">
+<g transform="translate(26.4203, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
@@ -1870,311 +1859,319 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 <g transform="translate(15.5199, 75.0525)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0568 -0.2000 4.0568 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(70.9201, 67.7425)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.0020 0.8000 11.0020 1.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(76.4843, 76.4325)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.2966 0.6100 4.2966 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:35:36">
-<g transform="translate(83.1000, 66.2645)">
+<g transform="translate(83.1330, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:41:42">
-<g transform="translate(88.0214, 63.4645)">
+<g transform="translate(88.0257, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:41:42">
-<g transform="translate(87.7311, 66.2645)">
+<g transform="translate(87.7355, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(77.6281, 48.9848)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.2940 -0.0100 4.2940 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(77.6585, 48.9848)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.2966 -0.0100 4.2966 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(76.4539, 55.3648)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.2940 0.1100 4.2940 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(76.4843, 55.3648)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.2966 0.1100 4.2966 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(70.9454, 67.7425)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.0098 0.8000 11.0098 1.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:35:36">
-<g transform="translate(96.9941, 50.1748)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6042 -1.1950C2.8356 -2.0450 5.3253 -1.6987 6.2780 -0.5450L6.2780 -0.5450C5.3087 -1.5799 2.8191 -1.9261 1.6042 -1.1950z"/>
+<g transform="translate(96.9760, 50.1748)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6042 -1.1950C2.8365 -2.0457 5.3295 -1.6994 6.2832 -0.5450L6.2832 -0.5450C5.3130 -1.5805 2.8199 -1.9268 1.6042 -1.1950z"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:36:37">
-<g transform="translate(103.2658, 57.8645)">
+<g transform="translate(103.2529, 57.8645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:40:41">
-<g transform="translate(103.2658, 60.6645)">
+<g transform="translate(103.2529, 60.6645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:51:52">
-<g transform="translate(100.4535, 63.4645)">
+<g transform="translate(100.4379, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:51:52">
-<g transform="translate(100.4535, 66.2645)">
+<g transform="translate(100.4379, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:57:58">
-<g transform="translate(105.2524, 63.4645)">
+<g transform="translate(105.2421, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(54.7526, 68.4325)">
+<g transform="translate(53.5975, 75.0525)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5006 -0.2000 4.5006 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:13:14">
-<g transform="translate(60.5762, 63.4645)">
+<g transform="translate(60.5953, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:12:13">
-<g transform="translate(60.6018, 66.2645)">
+<g transform="translate(60.6209, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:20:21">
-<g transform="translate(67.0248, 63.4645)">
+<g transform="translate(67.0470, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:18:19">
-<g transform="translate(66.8541, 66.2645)">
+<g transform="translate(66.8763, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(54.7526, 48.1748)">
+<g transform="translate(54.7717, 48.1748)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5006 -0.2000 4.5006 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(53.5784, 54.6748)">
+<g transform="translate(53.5975, 54.6748)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5006 -0.2000 4.5006 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
-<g transform="translate(53.5784, 75.0525)">
+<g transform="translate(54.7717, 68.4325)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5006 -0.2000 4.5006 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:15:16">
-<g transform="translate(70.9201, 47.9848)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4440 -0.0100 3.4440 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(70.9454, 47.9848)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4466 -0.0100 3.4466 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:16:17">
-<g transform="translate(69.7459, 50.1748)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.2629 -2.9265C2.1579 -3.6812 3.8093 -3.5911 4.6169 -2.7435L4.6169 -2.7435C3.8027 -3.4713 2.1514 -3.5614 1.2629 -2.9265z"/>
+<g transform="translate(69.7711, 50.1748)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.2629 -2.9265C2.1584 -3.6817 3.8113 -3.5916 4.6195 -2.7435L4.6195 -2.7435C3.8048 -3.4718 2.1519 -3.5618 1.2629 -2.9265z"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:39:40">
-<g transform="translate(69.7459, 54.3648)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4440 0.1100 3.4440 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<g transform="translate(69.7711, 54.3648)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4466 0.1100 3.4466 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:32:33">
-<g transform="translate(78.9890, 63.4645)">
+<g transform="translate(79.0207, 63.4645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:29:30">
-<g transform="translate(78.6902, 66.2645)">
+<g transform="translate(78.7220, 66.2645)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:19:20">
-<g transform="translate(102.3979, 70.2425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:54:55">
+<g transform="translate(102.2347, 66.2645)">
+<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ri</tspan>
+</text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:36:37">
-<g transform="translate(102.3979, 50.6748)">
+<g transform="translate(102.3850, 50.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:37:9:10">
-<g transform="translate(102.3979, 51.6748)">
+<g transform="translate(102.3850, 51.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:54:55">
-<g transform="translate(102.2477, 63.4645)">
+<g transform="translate(102.2347, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ri</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:54:55">
-<g transform="translate(102.2477, 66.2645)">
-<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>ri</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:23:24">
-<g transform="translate(102.3979, 73.2425)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:19:20">
+<g transform="translate(102.3850, 70.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(103.6371, 50.1748)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:27:28">
+<g transform="translate(102.3850, 73.2425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(103.6242, 50.1748)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(102.4629, 50.1748)">
+<g transform="translate(102.4500, 50.1748)">
 <rect x="-0.0650" y="1.6861" width="0.1300" height="2.6472" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(98.2333, 50.1748)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:17:18">
+<g transform="translate(96.9760, 69.7425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:25:26">
+<g transform="translate(96.9760, 73.2425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.2152, 50.1748)">
 <rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(97.0591, 50.1748)">
+<g transform="translate(97.0410, 50.1748)">
 <rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(103.6371, 73.2425)">
-<rect x="-0.0650" y="-5.5000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(98.2333, 73.2425)">
+<g transform="translate(98.2152, 73.2425)">
 <rect x="-0.0650" y="-6.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(97.0591, 73.2425)">
+<g transform="translate(97.0410, 73.2425)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(109.1141, 73.2425)">
+<g transform="translate(109.1063, 73.2425)">
 <rect x="-0.0650" y="-5.0000" width="0.1300" height="2.2410" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(107.8667, 73.2425)">
+<g transform="translate(107.8590, 73.2425)">
 <rect x="-0.0650" y="-1.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:39:40">
-<g transform="translate(106.8857, 57.8645)">
+<g transform="translate(106.8779, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ior.</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(102.4629, 73.2425)">
+<g transform="translate(103.6242, 73.2425)">
+<rect x="-0.0650" y="-5.5000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(102.4500, 73.2425)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:39:40">
-<g transform="translate(107.8017, 51.1748)">
+<g transform="translate(107.7940, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:37:13:14">
-<g transform="translate(107.8017, 52.6748)">
+<g transform="translate(107.7940, 52.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:21:22">
-<g transform="translate(96.9941, 73.2425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:48:49">
+<g transform="translate(95.9551, 66.2645)">
+<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ma</tspan>
+</text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:43:44">
-<g transform="translate(106.8857, 60.6645)">
+<g transform="translate(106.8779, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ior.</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:60:61">
-<g transform="translate(107.3125, 63.4645)">
+<g transform="translate(107.3047, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ja.</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:60:61">
-<g transform="translate(107.6027, 66.2645)">
+<g transform="translate(107.5949, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ji.</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:45:21:22">
-<g transform="translate(107.8017, 70.7425)">
+<g transform="translate(107.7940, 70.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:25:26">
-<g transform="translate(107.8017, 71.7425)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:29:30">
+<g transform="translate(107.7940, 71.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(109.1141, 50.1748)">
+<g transform="translate(109.1063, 50.1748)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(107.8667, 50.1748)">
+<g transform="translate(107.8590, 50.1748)">
 <rect x="-0.0650" y="2.7590" width="0.1300" height="2.2410" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:12:13">
-<g transform="translate(28.7207, 49.6748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+<g transform="translate(28.7909, 50.1748)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:10:11">
-<g transform="translate(28.7207, 51.1748)">
+<g transform="translate(28.7259, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:16:17">
-<g transform="translate(28.2631, 57.8645)">
+<g transform="translate(28.2683, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>us</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:18:19">
-<g transform="translate(26.2657, 60.6645)">
+<g transform="translate(26.2709, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>dered,</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:22:23">
-<g transform="translate(28.4509, 63.4645)">
+<g transform="translate(28.4561, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>la</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:20:21">
-<g transform="translate(28.1607, 66.2645)">
+<g transform="translate(28.1659, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>vu</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:12:13">
-<g transform="translate(28.7207, 69.2425)">
+<g transform="translate(28.7259, 69.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:13:14">
-<g transform="translate(28.7207, 73.7425)">
+<g transform="translate(28.7259, 73.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(29.9599, 50.1748)">
+<g transform="translate(29.9651, 50.1748)">
 <rect x="-0.0650" y="-3.6667" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(28.7857, 50.1748)">
-<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(29.9599, 73.2425)">
-<rect x="-0.0650" y="-6.5000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(28.7857, 73.2425)">
-<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:11:12">
-<g transform="translate(21.8179, 60.6645)">
-<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>won</tspan>
-</text>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:12:13">
+<g transform="translate(28.7259, 49.6748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(29.9651, 73.2425)">
+<rect x="-0.0650" y="-6.5000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.7909, 73.2425)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:16:17">
 <g transform="translate(23.0130, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -2211,118 +2208,126 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(23.3819, 73.2425)">
 <rect x="-0.0650" y="0.6861" width="0.1300" height="2.9806" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:15:16">
-<g transform="translate(37.5534, 51.6748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(34.1895, 73.2425)">
-<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:17:18">
-<g transform="translate(37.5534, 50.6748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(35.3637, 73.2425)">
-<rect x="-0.0650" y="-5.8043" width="0.1300" height="2.1182" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:23:24">
-<g transform="translate(37.2154, 57.8645)">
-<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>to</tspan>
-</text>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:31:32">
-<g transform="translate(35.8838, 60.6645)">
+<g transform="translate(35.8942, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>seph</tspan>
 </text>
 </g>
 </a>
+<g transform="translate(34.1998, 73.2425)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:17:18">
+<g transform="translate(37.5638, 50.6748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:15:16">
+<g transform="translate(37.5638, 51.6748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:23:24">
+<g transform="translate(37.2258, 57.8645)">
+<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:33:34">
-<g transform="translate(36.9935, 63.4645)">
+<g transform="translate(37.0038, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ho</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:29:30">
-<g transform="translate(37.3349, 66.2645)">
+<g transform="translate(37.3453, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>t'i</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:17:18">
-<g transform="translate(37.5534, 70.2425)">
+<g transform="translate(37.5638, 70.2425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(38.7927, 50.1748)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:19:20">
+<g transform="translate(37.5638, 73.7425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.8030, 50.1748)">
 <rect x="-0.0650" y="-2.8135" width="0.1300" height="3.1274" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(35.3637, 50.1748)">
-<rect x="-0.0650" y="-2.9965" width="0.1300" height="2.8104" ry="0.0400" fill="currentColor"/>
+<g transform="translate(37.6288, 50.1748)">
+<rect x="-0.0650" y="1.6861" width="0.1300" height="2.1182" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:14:15">
-<g transform="translate(34.1245, 50.1748)">
+<g transform="translate(34.1348, 50.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:12:13">
-<g transform="translate(34.1245, 51.1748)">
+<g transform="translate(34.1348, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:19:20">
-<g transform="translate(32.9158, 57.8645)">
+<g transform="translate(32.9261, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>and</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:25:26">
-<g transform="translate(33.7694, 60.6645)">
+<g transform="translate(33.7797, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Jo</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:25:26">
-<g transform="translate(32.7109, 63.4645)">
+<g transform="translate(32.7213, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>vbla</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:23:24">
-<g transform="translate(33.5986, 66.2645)">
+<g transform="translate(33.6090, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>po</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:14:15">
-<g transform="translate(34.1245, 69.7425)">
+<g transform="translate(34.1348, 69.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:16:17">
-<g transform="translate(34.1245, 73.7425)">
+<g transform="translate(34.1348, 73.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:10:11">
-<g transform="translate(21.5789, 57.8645)">
+<g transform="translate(35.3740, 50.1748)">
+<rect x="-0.0650" y="-2.9965" width="0.1300" height="2.8104" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:11:12">
+<g transform="translate(21.8179, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>bless</tspan>
+<tspan>won</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(34.1895, 50.1748)">
+<g transform="translate(34.1998, 50.1748)">
 <rect x="-0.0650" y="1.1861" width="0.1300" height="2.3196" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.3740, 73.2425)">
+<rect x="-0.0650" y="-5.8043" width="0.1300" height="2.1182" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:2:3">
 <g transform="translate(15.5199, 71.7425)">
@@ -2433,17 +2438,19 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:10:11">
+<g transform="translate(21.5789, 57.8645)">
+<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>bless</tspan>
+</text>
+</g>
+</a>
 <g transform="translate(16.7591, 73.2425)">
 <rect x="-0.0650" y="-3.8100" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(15.5849, 73.2425)">
 <rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:19:20">
-<g transform="translate(37.5534, 73.7425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:7:8">
 <g transform="translate(19.4867, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -2495,313 +2502,320 @@ v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-1
 <g transform="translate(20.7259, 50.1748)">
 <rect x="-0.0650" y="-2.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:7:8">
-<g transform="translate(57.9890, 51.1748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(54.8176, 73.2425)">
-<rect x="-0.0650" y="-4.8100" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(53.6434, 73.2425)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:27:28">
-<g transform="translate(57.9890, 52.1748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:6:7">
-<g transform="translate(57.6510, 57.8645)">
+<g transform="translate(57.6701, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>to</tspan>
 </text>
 </g>
 </a>
+<g transform="translate(53.6625, 73.2425)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:7:8">
+<g transform="translate(58.0081, 51.1748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:27:28">
+<g transform="translate(58.0081, 52.1748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:6:7">
-<g transform="translate(57.0705, 60.6645)">
+<g transform="translate(57.0896, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>the</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:10:11">
-<g transform="translate(57.4632, 63.4645)">
+<g transform="translate(57.4823, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>po</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:9:10">
-<g transform="translate(57.7534, 66.2645)">
+<g transform="translate(57.7725, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>vi</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:27:28">
-<g transform="translate(57.9890, 70.7425)">
+<g transform="translate(58.0081, 70.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:6:7">
-<g transform="translate(57.9890, 71.7425)">
+<g transform="translate(58.0081, 71.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(59.2282, 50.1748)">
+<g transform="translate(59.2473, 50.1748)">
 <rect x="-0.0650" y="-2.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:3:4">
-<g transform="translate(53.5784, 71.7425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:4:5">
-<g transform="translate(53.5784, 51.1748)">
+<g transform="translate(53.5975, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:24:25">
-<g transform="translate(53.5784, 52.1748)">
+<g transform="translate(53.5975, 52.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:2:3">
-<g transform="translate(52.1478, 57.8645)">
-<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>And</tspan>
-</text>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:2:3">
-<g transform="translate(51.8405, 60.6645)">
+<g transform="translate(51.8596, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>How</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:4:5">
-<g transform="translate(52.8648, 63.4645)">
+<g transform="translate(52.8839, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Ne</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:3:4">
-<g transform="translate(52.9672, 66.2645)">
+<g transform="translate(52.9863, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Po</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:24:25">
-<g transform="translate(53.5784, 70.7425)">
+<g transform="translate(53.5975, 70.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(54.8176, 50.1748)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(53.6434, 50.1748)">
-<rect x="-0.0650" y="2.1861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:16:17">
-<g transform="translate(61.9933, 63.4645)">
-<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>roč</tspan>
-</text>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:3:4">
+<g transform="translate(53.5975, 71.7425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(54.8367, 50.1748)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.0731, 50.1748)">
+<rect x="-0.0650" y="2.1861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(53.6625, 50.1748)">
+<rect x="-0.0650" y="2.1861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(54.8367, 73.2425)">
+<rect x="-0.0650" y="-4.8100" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(64.0848, 73.2425)">
+<rect x="-0.0650" y="-5.5000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:29:30">
+<g transform="translate(62.8455, 70.2425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:8:9">
+<g transform="translate(62.8455, 73.2425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(64.0848, 50.1748)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(62.9105, 50.1748)">
+<rect x="-0.0650" y="1.6861" width="0.1300" height="2.6472" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:91:15:16">
-<g transform="translate(62.3347, 66.2645)">
+<g transform="translate(62.3538, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>va</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:29:30">
-<g transform="translate(62.8264, 70.2425)">
+<g transform="translate(62.9105, 73.2425)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:12:13">
+<g transform="translate(69.7711, 50.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:55:8:9">
-<g transform="translate(62.8264, 73.2425)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:34:35">
+<g transform="translate(69.7711, 51.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(64.0656, 50.1748)">
-<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(58.0731, 73.2425)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(62.8914, 50.1748)">
-<rect x="-0.0650" y="1.6861" width="0.1300" height="2.6472" ry="0.0400" fill="currentColor"/>
+<g transform="translate(59.2473, 73.2425)">
+<rect x="-0.0650" y="-4.8100" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:10:11">
-<g transform="translate(60.6617, 60.6645)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:2:3">
+<g transform="translate(52.1669, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>Child</tspan>
+<tspan>And</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(64.0656, 73.2425)">
-<rect x="-0.0650" y="-5.5000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(62.8914, 73.2425)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(58.0540, 50.1748)">
-<rect x="-0.0650" y="2.1861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(59.2282, 73.2425)">
-<rect x="-0.0650" y="-4.8100" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(58.0540, 73.2425)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:25:9:10">
-<g transform="translate(62.8264, 50.6748)">
+<g transform="translate(62.8455, 50.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:29:30">
-<g transform="translate(62.8264, 51.6748)">
+<g transform="translate(62.8455, 51.6748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:63:9:10">
-<g transform="translate(61.4470, 57.8645)">
+<g transform="translate(61.4661, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>lead</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:39:40">
-<g transform="translate(41.9236, 63.4645)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:72:10:11">
+<g transform="translate(60.6808, 60.6645)">
+<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Child</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:81:16:17">
+<g transform="translate(62.0124, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>da</tspan>
+<tspan>roč</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:33:34">
-<g transform="translate(42.1455, 66.2645)">
+<g transform="translate(42.1595, 66.2645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ša</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:19:20">
-<g transform="translate(42.5177, 69.7425)">
+<g transform="translate(42.5317, 69.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:21:22">
-<g transform="translate(42.5177, 71.7425)">
+<g transform="translate(42.5317, 71.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(43.7570, 50.1748)">
+<g transform="translate(43.7709, 50.1748)">
 <rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:36:37">
-<g transform="translate(41.2066, 60.6645)">
-<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>pon</tspan>
+<g transform="translate(42.5967, 50.1748)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:39:40">
+<g transform="translate(41.9375, 63.4645)">
+<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>da</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(42.5827, 50.1748)">
-<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(43.7570, 73.2425)">
+<g transform="translate(43.7709, 73.2425)">
 <rect x="-0.0650" y="-6.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(37.6184, 73.2425)">
-<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
+<g transform="translate(42.5967, 73.2425)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(37.6184, 50.1748)">
-<rect x="-0.0650" y="1.6861" width="0.1300" height="2.1182" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(38.7927, 73.2425)">
+<g transform="translate(38.8030, 73.2425)">
 <rect x="-0.0650" y="-5.5057" width="0.1300" height="2.3196" ry="0.0400" fill="currentColor"/>
 </g>
+<g transform="translate(37.6288, 73.2425)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1239" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:19:20">
-<g transform="translate(42.5177, 50.1748)">
+<g transform="translate(42.5317, 50.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:19:20">
-<g transform="translate(42.5177, 51.1748)">
+<g transform="translate(42.5317, 51.1748)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:26:27">
-<g transform="translate(41.1042, 57.8645)">
+<g transform="translate(41.1181, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>save</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:39:40">
-<g transform="translate(47.4981, 66.2645)">
-<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>je,</tspan>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:36:37">
+<g transform="translate(41.2205, 60.6645)">
+<text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>pon</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:22:23">
-<g transform="translate(47.9215, 50.1748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+<g transform="translate(48.0056, 50.1748)">
+<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:22:23">
-<g transform="translate(47.9215, 51.1748)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:62:31:32">
-<g transform="translate(47.4640, 57.8645)">
+<g transform="translate(47.4831, 57.8645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>us</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:71:43:44">
-<g transform="translate(45.7568, 60.6645)">
+<g transform="translate(45.7759, 60.6645)">
 <text font-family="Minion 3" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>dered</tspan>
 </text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:80:45:46">
-<g transform="translate(47.6518, 63.4645)">
+<g transform="translate(47.6709, 63.4645)">
 <text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ti,</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(49.1608, 73.2425)">
-<rect x="-0.0650" y="-6.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:90:39:40">
+<g transform="translate(47.5172, 66.2645)">
+<text font-family="Minion 3" font-style="italic" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>je,</tspan>
+</text>
 </g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:44:22:23">
-<g transform="translate(47.9215, 69.7425)">
+<g transform="translate(47.9406, 69.7425)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:25:26">
-<g transform="translate(47.9215, 71.7425)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(49.1608, 50.1748)">
+<g transform="translate(49.1799, 50.1748)">
 <rect x="-0.0650" y="-3.3333" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(47.9865, 50.1748)">
-<rect x="-0.0650" y="1.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:54:25:26">
+<g transform="translate(47.9406, 71.7425)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
-<g transform="translate(42.5827, 73.2425)">
+</a>
+<g transform="translate(49.1799, 73.2425)">
+<rect x="-0.0650" y="-6.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.0056, 73.2425)">
 <rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(47.9865, 73.2425)">
-<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:36:22:23">
+<g transform="translate(47.9406, 51.1748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/byip/Documents/lilypond_sheets/christmas/In-the-Town-of-Bethlehem.ly:24:22:23">
+<g transform="translate(47.9406, 50.1748)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
 </svg>
