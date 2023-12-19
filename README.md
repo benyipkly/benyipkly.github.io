@@ -1,5 +1,3 @@
-# Ruthenian Byzantine Christmas Carols (Kolady)
-
 SATB Harmonization based on the Hymnal project of mci.archpitt.org/ (for text and melody) and Kolady (1958) by Prof. George Kacan (harmonization).
 
 ### Direct PDF Download
