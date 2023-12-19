@@ -12,6 +12,7 @@ SATB Harmonization based on the Hymnal project of mci.archpitt.org/ (for text an
 ![Angels from Heaven](/svg/Angels-from-Heaven.svg)
 
 ## Eternal God
+[midi track download](/mp3/Eternal-God.mp3?raw=true)
 ![Eternal God](/svg/Eternal-God.svg)
 
 ## God the Lord Eternal
