@@ -4,7 +4,7 @@ SATB Harmonization based on the Hymnal project of mci.archpitt.org/ (for text an
 
 ### Direct PDF Download
 + [Angels from Heaven](pdf/Angels-from-Heaven.pdf?raw=true)
-+ [Eternal God (Boh predv'ičnyj narodilsja)]()
++ [Eternal God (Boh predv'ičnyj narodilsja)](pdf/Eternal-God.pdf?raw=true)
 + [God the Lord Eternal](pdf/God-the-Lord-Eternal.pdf?raw=true)
 + [God's Son is Born](pdf/God-s-Son-is-Born.pdf?raw=true)
 + [Heaven and Earth](pdf/Heaven-and-Earth.pdf?raw=true)
@@ -14,7 +14,7 @@ SATB Harmonization based on the Hymnal project of mci.archpitt.org/ (for text an
 ![Angels from Heaven](/svg/Angels-from-Heaven.svg)
 
 ## Eternal God
-![Eternal God](/)
+![Eternal God](/svg/Eternal-God.svg)
 
 ## God the Lord Eternal
 ![God the Lord Eternal](/svg/God-the-Lord-Eternal.svg)
